@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct RatingViewApp: App {
+    @State var rating: Double = 3
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Text("Rating: \(String(format: "%.1f", rating))")
+            RatingView(maxRating: 5, rating: $rating, starColor: .blue, starRounding: .roundToHalfStar)
+                .padding()
         }
     }
 }
