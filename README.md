@@ -3,8 +3,7 @@
 
 # Preview
 Here's a screenshot:
-<img width="404" alt="Screenshot 2023-04-24 at 6 20 43 PM" src="https://user-images.githubusercontent.com/8961643/234006439-b9ef1005-633b-4207-b4b3-7ac8043061d2.png">
-<img width="404" alt="Screenshot 2023-04-24 at 6 21 17 PM" src="https://user-images.githubusercontent.com/8961643/234006496-f786c022-b99b-4c9b-a422-c56dc41dcc96.png">
+<img width="404" alt="Screenshot 2023-04-24 at 6 20 43 PM" src="https://user-images.githubusercontent.com/8961643/234006439-b9ef1005-633b-4207-b4b3-7ac8043061d2.png"> <img width="404" alt="Screenshot 2023-04-24 at 6 21 17 PM" src="https://user-images.githubusercontent.com/8961643/234006496-f786c022-b99b-4c9b-a422-c56dc41dcc96.png">
 
 ## Features
 - Display a maximum rating with a customizable number of stars.
